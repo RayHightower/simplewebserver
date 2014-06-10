@@ -28,5 +28,6 @@ Server running at http://127.0.0.1:1337/
 
 ...and point your browser to [http://localhost:1337](http://localhost:1337)
 
+To stop the Node.js web server, hit `control-C` in the terminal window where the web server is running.
 
 
