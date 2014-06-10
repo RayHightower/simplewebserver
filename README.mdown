@@ -3,7 +3,20 @@ Node.js: Simple Sample Web Server
 
 Experimenting with Node.js using this simple sample web server obtained from [Nodejs.org](http://nodejs.org).
 
-To run the example...
+To run the example, first verify that Node.js is installed.
+
+```bash
+
+$ which node
+/usr/local/bin/node
+
+$ node --version
+v0.10.26
+
+$ 
+
+```
+If you don't have Node.js installed, [Homebrew](http://brew.sh/) makes installation painless. After Node.js is installed...
 
 ```bash
 $ cd [directory containing websvr.js]
