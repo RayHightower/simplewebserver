@@ -3,3 +3,17 @@ Node.js: Simple Sample Web Server
 
 Experimenting with Node.js using this simple sample web server obtained from [Nodejs.org](http://nodejs.org).
 
+To run the example...
+
+```bash
+$ cd [directory containing websvr.js]
+
+$ node websvr.js
+Server running at http://127.0.0.1:1337/
+
+```
+
+...and point your browser to [http://localhost:1337](http://localhost:1337)
+
+
+
