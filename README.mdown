@@ -4,7 +4,7 @@ Node.js Experments
 This directory contains two experiments:
 
 * Simple Web Server, `webserver.js`
-* Socket.io example, contained in `index.js` and `index.html`
+* [Socket.io](http://socket.io) example, contained in `index.js` and `index.html`
 
 
 ###webserver.js: Simple Sample Web Server
