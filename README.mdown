@@ -1,4 +1,13 @@
-Node.js: Simple Sample Web Server
+Node.js Experments
+===
+
+This directory contains two experiments:
+
+* Simple Web Server, `webserver.js`
+* Socket.io example, contained in `index.js` and `index.html`
+
+
+webserver.js: Simple Sample Web Server
 ===
 
 Experimenting with Node.js using this simple sample web server obtained from [Nodejs.org](http://nodejs.org).
@@ -30,4 +39,9 @@ Server running at http://127.0.0.1:1337/
 
 To stop the Node.js web server, hit `control-C` in the terminal window where the web server is running.
 
+
+Socket.io Example
+===
+
+The Socket.io example is contained within two files: `index.js` and `index.html`.
 
